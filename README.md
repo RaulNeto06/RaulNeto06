@@ -14,11 +14,6 @@ Estudante de Engenharia de Software | Desenvolvedor em formação | Entusiasta d
 
 ---
 
-## 🎯 Objetivo Profissional
-
-Busco oportunidades de estágio e experiências profissionais que complementem minha formação em Engenharia de Software. Tenho interesse em atuar com desenvolvimento web, sistemas de informação e áreas relacionadas à tecnologia, visando adquirir conhecimento prático, colaborar com equipes técnicas e me desenvolver continuamente no setor.
-
-
 ## 💻 Conhecimentos Técnicos
 
 - Linguagens: `C#`, `JavaScript`, `PHP`, `HTML`, `CSS`  
