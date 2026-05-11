@@ -24,15 +24,6 @@ Estudante de Engenharia de Software | Desenvolvedor em formação | Entusiasta d
 
 ---
 
-## 🧠 Competências
-
-- Comunicação clara e objetiva  
-- Trabalho em equipe e liderança  
-- Organização e responsabilidade  
-- Raciocínio lógico e resolução de problemas  
-- Proatividade e aprendizado contínuo
-
-
 ## 📈 GitHub Stats
 
 <div align="center">
