@@ -50,11 +50,6 @@ Sou estudante de Engenharia de Software apaixonado por desenvolvimento web e sis
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=raulpedroneto&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpedroneto&layout=compact&theme=default&hide_border=true" />
-</div>
-
 ---
 
 ## 🎯 Áreas de Interesse
